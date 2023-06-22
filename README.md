@@ -1,9 +1,9 @@
 Olá, tudo bem? 😄
 
-Me chamo Guilherme Bailer Motta, tenho 19 anos, gosto muito de resolver problemas e adoro programar. Iniciei minha jornada no mundo da programação
-em Dezembro de 2021, aprendendo Python para WEB. Tenho grande interesse em seguir na área de desenvolvedor, muita vontade de aprender e curiosidade
-sobre o que posso ser capaz de realizar com a programação! Aqui você encontra vários dos meus projetos pessoais, criados com a intenção de exercitar
-aquilo que aprendo estudando. 😉
+Sou o Guilherme, estudante de Engenharia de Software. 
+Aqui você encontra tudo aquilo que venho fazendo/estudando.
+Conhecimentos que variam desde Python e framework Django, até
+React, Dart e posteriormente Flutter.
 
 Quer entrar em contato?
 
