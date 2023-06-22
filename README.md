@@ -6,5 +6,5 @@ Conhecimentos que variam desde Python e framework Django, até
 React, Dart e posteriormente Flutter.
 
 Quer entrar em contato? 
-Clica aqui 👇🏻
+Clica aqui 👉🏻
 https://linktr.ee/bailerg
