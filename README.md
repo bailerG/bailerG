@@ -7,4 +7,4 @@ React, Dart e posteriormente Flutter.
 
 Quer entrar em contato? 
 Clica aqui 👇🏻
-linktr.ee/bailerg
+https://linktr.ee/bailerg
