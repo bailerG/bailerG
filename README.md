@@ -1,1 +1,1 @@
-👉🏻www.linkedin.com/in/bailer-guilherme
+👉🏻 www.linkedin.com/in/bailer-guilherme
